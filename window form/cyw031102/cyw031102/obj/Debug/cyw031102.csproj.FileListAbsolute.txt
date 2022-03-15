@@ -12,3 +12,17 @@ C:\Users\Mac_1\Desktop\window form\cyw031102\cyw031102\obj\Debug\cyw031102.Form1
 C:\Users\Mac_1\Desktop\window form\cyw031102\cyw031102\obj\Debug\cyw031102.Form3.resources
 C:\Users\Mac_1\Desktop\window form\cyw031102\cyw031102\obj\Debug\cyw031102.Form4.resources
 C:\Users\Mac_1\Desktop\window form\cyw031102\cyw031102\obj\Debug\cyw031102.Form5.resources
+C:\Users\Mac_1\Downloads\c--main\window form\cyw031102\cyw031102\bin\Debug\cyw031102.exe.config
+C:\Users\Mac_1\Downloads\c--main\window form\cyw031102\cyw031102\bin\Debug\cyw031102.exe
+C:\Users\Mac_1\Downloads\c--main\window form\cyw031102\cyw031102\bin\Debug\cyw031102.pdb
+C:\Users\Mac_1\Downloads\c--main\window form\cyw031102\cyw031102\obj\Debug\cyw031102.csprojAssemblyReference.cache
+C:\Users\Mac_1\Downloads\c--main\window form\cyw031102\cyw031102\obj\Debug\cyw031102.AboutBox1.resources
+C:\Users\Mac_1\Downloads\c--main\window form\cyw031102\cyw031102\obj\Debug\cyw031102.Form1.resources
+C:\Users\Mac_1\Downloads\c--main\window form\cyw031102\cyw031102\obj\Debug\cyw031102.Form2.resources
+C:\Users\Mac_1\Downloads\c--main\window form\cyw031102\cyw031102\obj\Debug\cyw031102.Form3.resources
+C:\Users\Mac_1\Downloads\c--main\window form\cyw031102\cyw031102\obj\Debug\cyw031102.Form4.resources
+C:\Users\Mac_1\Downloads\c--main\window form\cyw031102\cyw031102\obj\Debug\cyw031102.Form5.resources
+C:\Users\Mac_1\Downloads\c--main\window form\cyw031102\cyw031102\obj\Debug\cyw031102.Properties.Resources.resources
+C:\Users\Mac_1\Downloads\c--main\window form\cyw031102\cyw031102\obj\Debug\cyw031102.csproj.GenerateResource.cache
+C:\Users\Mac_1\Downloads\c--main\window form\cyw031102\cyw031102\obj\Debug\cyw031102.exe
+C:\Users\Mac_1\Downloads\c--main\window form\cyw031102\cyw031102\obj\Debug\cyw031102.pdb

@@ -51,17 +51,17 @@ namespace cyw031102
 
             if(b1 <= 10)
             {
-                textBox4.Text = b1.ToString("정상");
+                textBox4.Text = "정상";
             }
             else
             {
                 if (b1 >= 20)
                 {
-                    textBox4.Text = b1.ToString("과체중");
+                    textBox4.Text = "비만";
                 }
                 else
                 {
-                    textBox4.Text = b1.ToString("비만");
+                    textBox4.Text = "과체중";
                 }
             }
         }
